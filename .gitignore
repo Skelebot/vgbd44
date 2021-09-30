@@ -1,0 +1,8 @@
+# firmware is kept as a separate git repo, but I like to keep it together in the directory tree.
+# this avoids git submodules, which also makes sense because we don't even need the firmware here.
+/firmware/
+
+# temporary files created by eagle
+*.s#*
+*.b#*
+
