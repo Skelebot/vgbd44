@@ -18,6 +18,12 @@ Minimal printable case - very light, minimal material needed
  - A rubber bumper sticked on the head prevents the keyboard from sliding.
 
 
+## Laser-cut "case"
+The [drawings/](../drawings/) folder contains design files for a minimal laser-cut (or 3D-printed) case.
+They were tested (3D-printed), but printing them (at least in plastic) is not recommended because those
+plates will bend a lot.
+When laser-cut (for example in aluminium) they should be quite solid and work just like a normal case.
+
 ## Photos
 ![Tenting case](../images/case.png)
 Assembled tenting case with legs attached

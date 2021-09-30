@@ -35,6 +35,7 @@ Inspired by:
  - The firmware is located in the [vgbd44-firmware](https://github.com/Skelebot/vgbd44-firmware) repository.
    Head there for instructions on flashing and other firmware-related resources.
  - Case options and other notes on cases: [CASES.md](docs/CASES.md)
+ - Layout info and printable layout diagrams: [LAYOUT.md](docs/LAYOUT.md)
 
 ## Parts list (BOM)
 The parts list is also available [here](https://docs.google.com/spreadsheets/d/1f-E3JmmYUamYBCyl46FBLJGFHlAR0pfU8PB9eaqT7j0/edit?usp=sharing)
@@ -61,7 +62,7 @@ This table is a parts list for a full keyboard, with *estimate, rounded up* pric
 |4mm M2 screws |for example M2X4/D7985-A2 | 20| 0.22|
 |5mm M2 standoffs |for example TFF-M2X5/DR111 | 10| 2.00|
 
-Which equals about 13.80 EUR for a single keyboard (both halves).
+Which equals about **13.80 EUR** for a single keyboard (both halves).
 For a full keyboard one would also (obviously) need switches and keycaps, which can
 and usually are the most expensive part of a keyboard.
 
